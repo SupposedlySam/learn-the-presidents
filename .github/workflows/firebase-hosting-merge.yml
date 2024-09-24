@@ -10,9 +10,6 @@ name: Deploy to Firebase Hosting
     branches:
       - main
 
-env:
-  FLUTTER_VERSION: "3.24.3"
-  FLUTTER_CHANNEL: "stable"
 jobs:
   semantic-pull-request:
     name: "Semantic"
@@ -22,8 +19,8 @@ jobs:
     name: "Analyze"
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/flutter_package.yml@v1
     with:
-      flutter_channel: ${{ env.FLUTTER_CHANNEL }}
-      flutter_version: ${{ env.FLUTTER_VERSION }}
+      flutter_channel: stable
+      flutter_version: 3.24.3
       min_coverage: 0
 
   build:
@@ -37,8 +34,8 @@ jobs:
       - name: 🐦 Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: ${{env.FLUTTER_VERSION}}
-          channel: ${{env.FLUTTER_CHANNEL}}
+          channel: stable
+          flutter-version: 3.24.3
           cache: true
           cache-key: flutter-:os:-:channel:-:version:-:arch:-:hash:-${{ hashFiles('**/pubspec.lock') }}
 
