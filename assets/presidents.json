@@ -1,0 +1,182 @@
+[
+  {
+    "name": "George Washington",
+    "details": "Led during the American Revolutionary War and established many governmental precedents."
+  },
+  {
+    "name": "John Adams",
+    "details": "Played a key role in the drafting of the Declaration of Independence and was known for his legal expertise."
+  },
+  {
+    "name": "Thomas Jefferson",
+    "details": "Principal author of the Declaration of Independence and oversaw the Louisiana Purchase."
+  },
+  {
+    "name": "James Madison",
+    "details": "'Father of the Constitution' and led the U.S. during the War of 1812."
+  },
+  {
+    "name": "James Monroe",
+    "details": "Known for the Monroe Doctrine which opposed European colonialism in the Americas."
+  },
+  {
+    "name": "John Quincy Adams",
+    "details": "Advocated for modernizing the American economy and was a strong opponent of slavery."
+  },
+  {
+    "name": "Andrew Jackson",
+    "details": "Founder of the Democratic Party and known for his controversial policies regarding Native Americans."
+  },
+  {
+    "name": "Martin Van Buren",
+    "details": "Known for his role in establishing the modern Democratic Party."
+  },
+  {
+    "name": "William Henry Harrison",
+    "details": "Died only a month into his presidency, the shortest tenure of any U.S. president."
+  },
+  {
+    "name": "John Tyler",
+    "details": "First vice president to succeed to the presidency after the death of a sitting president."
+  },
+  {
+    "name": "James K. Polk",
+    "details": "Oversaw the expansion of U.S. territory through the Mexican-American War."
+  },
+  {
+    "name": "Zachary Taylor",
+    "details": "A national war hero for his battles in the Mexican-American War."
+  },
+  {
+    "name": "Millard Fillmore",
+    "details": "Supported the Compromise of 1850 which sought to ease tensions between slave and free states."
+  },
+  {
+    "name": "Franklin Pierce",
+    "details": "Known for his support of the Kansas-Nebraska Act, which heightened tensions over slavery."
+  },
+  {
+    "name": "James Buchanan",
+    "details": "Presidency saw the nation head toward Civil War due to his inaction on slavery."
+  },
+  {
+    "name": "Abraham Lincoln",
+    "details": "Led the U.S. during the Civil War and issued the Emancipation Proclamation to abolish slavery."
+  },
+  {
+    "name": "Andrew Johnson",
+    "details": "Oversaw the early Reconstruction era and was the first president to be impeached."
+  },
+  {
+    "name": "Ulysses S. Grant",
+    "details": "Civil War hero who worked to stabilize the post-war economy and protect civil rights."
+  },
+  {
+    "name": "Rutherford B. Hayes",
+    "details": "Ended Reconstruction and sought to restore national unity after the Civil War."
+  },
+  {
+    "name": "James A. Garfield",
+    "details": "Known for his efforts in civil service reform, but was assassinated early in his term."
+  },
+  {
+    "name": "Chester A. Arthur",
+    "details": "Championed civil service reform and the Pendleton Act to curb government corruption."
+  },
+  {
+    "name": "Grover Cleveland",
+    "details": "The only president to serve two non-consecutive terms, known for his honesty and integrity."
+  },
+  {
+    "name": "Benjamin Harrison",
+    "details": "Supported protective tariffs and sought to modernize the U.S. Navy."
+  },
+  {
+    "name": "William McKinley",
+    "details": "Led the U.S. during the Spanish-American War, which resulted in U.S. territorial expansion."
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "details": "Known for his progressive policies and conservation efforts, and for building the Panama Canal."
+  },
+  {
+    "name": "William Howard Taft",
+    "details": "Later became Chief Justice of the U.S. Supreme Court, known for his trust-busting policies."
+  },
+  {
+    "name": "Woodrow Wilson",
+    "details": "Led the U.S. through World War I and was instrumental in founding the League of Nations."
+  },
+  {
+    "name": "Warren G. Harding",
+    "details": "Known for his 'Return to Normalcy' campaign and the Teapot Dome scandal."
+  },
+  {
+    "name": "Calvin Coolidge",
+    "details": "Known for his laissez-faire policies during the Roaring Twenties."
+  },
+  {
+    "name": "Herbert Hoover",
+    "details": "Presidency was defined by the Great Depression and his response to the economic crisis."
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "details": "Led the U.S. through the Great Depression and World War II with his New Deal programs."
+  },
+  {
+    "name": "Harry S. Truman",
+    "details": "Made the decision to drop atomic bombs on Japan and implemented the Marshall Plan."
+  },
+  {
+    "name": "Dwight D. Eisenhower",
+    "details": "Led post-war America during a period of economic growth and infrastructure development."
+  },
+  {
+    "name": "John F. Kennedy",
+    "details": "Known for his handling of the Cuban Missile Crisis and advancing the space race."
+  },
+  {
+    "name": "Lyndon B. Johnson",
+    "details": "Passed landmark civil rights legislation and escalated U.S. involvement in the Vietnam War."
+  },
+  {
+    "name": "Richard Nixon",
+    "details": "Known for the Watergate scandal and being the only president to resign from office."
+  },
+  {
+    "name": "Gerald Ford",
+    "details": "Became president after Nixon’s resignation and sought to restore public confidence in government."
+  },
+  {
+    "name": "Jimmy Carter",
+    "details": "Promoted human rights and brokered the Camp David Accords in the Middle East."
+  },
+  {
+    "name": "Ronald Reagan",
+    "details": "Known for conservative policies, Reaganomics, and helping to end the Cold War."
+  },
+  {
+    "name": "George H. W. Bush",
+    "details": "Led the U.S. during the Gulf War and oversaw the end of the Cold War."
+  },
+  {
+    "name": "Bill Clinton",
+    "details": "Presided over a period of economic expansion but was impeached for perjury and obstruction."
+  },
+  {
+    "name": "George W. Bush",
+    "details": "Known for his response to the 9/11 attacks and initiating the Iraq War."
+  },
+  {
+    "name": "Barack Obama",
+    "details": "First African American president, known for the Affordable Care Act and killing of Osama bin Laden."
+  },
+  {
+    "name": "Donald Trump",
+    "details": "Known for his 'America First' policies, and his two impeachments during his presidency."
+  },
+  {
+    "name": "Joe Biden",
+    "details": "Focused on tackling the COVID-19 pandemic and passing large infrastructure and economic recovery bills."
+  }
+]
